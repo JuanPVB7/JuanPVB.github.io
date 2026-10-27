@@ -1,6 +1,6 @@
 ---
 title: "Juan Pablo Valdovinos"
-image: "jinv.jpg"
+# image: "jinv.jpg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
     url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
